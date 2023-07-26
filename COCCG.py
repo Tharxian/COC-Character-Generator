@@ -1,6 +1,6 @@
 '''Yifan Ge (Tharxian) all rights reserved'''
 print('©tharxian 2023')
-print('Source code available at:')
+print('Source code available at:https://github.com/Tharxian/COC-Character-Generator/blob/main/COCCG.py')
 
 import random
 import math
