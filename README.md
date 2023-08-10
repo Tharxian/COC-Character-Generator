@@ -8,5 +8,6 @@
  - Run the `COCCG.py` by code:
  - Find your character card in `/character/your_name Profile.docx`
  - Remember to delete your character card from `character` folder in case it causes any conflict.
+ - The code doesn't work for Windows user.
 
 
